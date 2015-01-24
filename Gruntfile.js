@@ -7,17 +7,11 @@ module.exports = function (grunt) {
     grunt.initConfig({
         paths: {
             src: {
-                js: ['lib/constants.js',
-                     'lib/options.js',
-                     'lib/artist.js',
-                     'lib/playlist.js',
-                     'lib/search.js',
-                     'lib/app.js',
-                     'lib/read_client_id.js'
+                js: ['lib/*.js'
                     ]
             },
             dest: {
-                js: 'lib/downcloud.js',
+                js: 'lib/knotes.js',
                 jsMin: 'dist/main.min.js'
             }
         },
