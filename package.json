@@ -1,0 +1,29 @@
+{
+  "name": "knotes",
+  "version": "0.0.1",
+  "description": "Messages between commits",
+  "main": "lib/app.js",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krmannix/knotes.git"
+  },
+  "keywords": [
+    "commit",
+    "messages",
+    "helpful"
+  ],
+  "author": "K. Rodman Mannix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krmannix/knotes/issues"
+  },
+  "homepage": "https://github.com/krmannix/knotes"
+}
