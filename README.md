@@ -6,6 +6,7 @@ Messages for in-between commits
 * Add a message to a path
 * See log of messages
 * Add notes to "project" name
+* Add in error messages
 
 __Project__: 
 
