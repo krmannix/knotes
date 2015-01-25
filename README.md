@@ -26,7 +26,7 @@ __Project__:
 		* Shows last 5 messages for specific project
 	* `knotes log 30`
 		* Shows 30 messages
-	* `knotes log 30 -p ProjectName
+	* `knotes log 30 -p ProjectName`
 		* Shows 30 message for specific project
 * _Projects_:
 	* `knotes projects`
