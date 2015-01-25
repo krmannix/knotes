@@ -4,8 +4,8 @@ Messages for in-between commits
 <h3>To-Do</h3>
 * ~~Add~~
 * ~~Log~~
-* Projects
-* Locations
+* ~~Projects~~
+* ~~Locations~~
 * To Do
 * Add in error messages
 
@@ -41,5 +41,11 @@ __Project__:
 		* Remove the task at #5
 	* `knotes todo -l`
 		* Shows 10 most recently completed tasks
+	* `knotes todo -a "Task goes here"
+		* Adds a task onto the list
+	* `knotes todo -a "Task goes here" 3
+		* Adds a task at that position, or next closest position if list is shorter
+	* 'knotes todo -m 3 5'
+		* Moves task at position 3 to position 5
 
 
