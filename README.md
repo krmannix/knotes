@@ -2,10 +2,11 @@
 Messages for in-between commits
 
 <h3>To-Do</h3>
-* Read JSON that consists of paths and messages
-* Add a message to a path
-* See log of messages
-* Add notes to "project" name
+* ~~Add~~
+* ~~Log~~
+* Projects
+* Locations
+* To Do
 * Add in error messages
 
 __Project__: 
@@ -14,15 +15,19 @@ __Project__:
 * _Add_: 
 	* `knotes add "Need to put images in folder"`
 		* Adds message to JSON
-	* `knotes add "Need to put images in folder" -p Website-Project
+	* `knotes add "Need to put images in folder" -p ProjectName
 		* Adds message to specific project
 * _Log_: 
 	* `knotes log`
 		* Shows last 5 messages
 	* `knotes log -all`
 		* Shows all messages
+	* `knotes log -p ProjectName
+		* Shows last 5 messages for specific project
 	* `knotes log 30`
 		* Shows 30 messages
+	* `knotes log 30 -p ProjectName
+		* Shows 30 message for specific project
 * _Projects_:
 	* `knotes projects`
 		* Shows a list of all projects for knotes stored
