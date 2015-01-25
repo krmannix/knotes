@@ -1,5 +1,8 @@
 {
   "locations": [],
   "projects": [],
-  "todos": []
+  "todos": {
+    "tasks": [],
+    "completed": []
+  }
 }
