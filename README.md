@@ -21,9 +21,11 @@ __Project__:
 	* `knotes log`
 		* Shows last 5 messages
 	* `knotes log -all`
-		* Shows all messages
+		* Shows all messages for current location
 	* `knotes log -p ProjectName
 		* Shows last 5 messages for specific project
+	* `knotes log -all -p ProjectName`
+		* Shows all messages for specific project
 	* `knotes log 30`
 		* Shows 30 messages
 	* `knotes log 30 -p ProjectName`
