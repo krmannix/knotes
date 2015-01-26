@@ -1,6 +1,6 @@
 {
   "name": "knotes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Messages between commits",
   "main": "lib/app.js",
   "devDependencies": {
@@ -22,7 +22,7 @@
   ],
   "main": "./lib/app",
   "bin": {
-    "knotes": "./bin/app"
+    "knotes": "./bin/knotes"
   },
   "author": "K. Rodman Mannix",
   "license": "MIT",
