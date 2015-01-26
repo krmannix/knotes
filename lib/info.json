@@ -2,31 +2,7 @@
   "locations": [],
   "projects": [],
   "todos": {
-    "tasks": [
-      {
-        "task": "Test mess 1",
-        "date": "Sunday, January 25, 2015"
-      },
-      {
-        "task": "Test mess 2",
-        "date": "Sunday, January 25, 2015"
-      }
-    ],
-    "completed": [
-      [],
-      [],
-      [],
-      [],
-      [
-        {
-          "task": "Test mess 1",
-          "date": "Sunday, January 25, 2015"
-        }
-      ],
-      {
-        "task": "Test mess 1",
-        "date": "Sunday, January 25, 2015"
-      }
-    ]
+    "tasks": [],
+    "completed": []
   }
 }
