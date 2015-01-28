@@ -1,13 +1,5 @@
 {
-  "locations": [
-    {
-      "location": "/Users/kevinmannix/Development/JS_Dev/knotes",
-      "log": [
-        "Adding a task",
-        "Adding a task"
-      ]
-    }
-  ],
+  "locations": [],
   "projects": [],
   "todos": {
     "tasks": [],
