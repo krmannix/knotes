@@ -1,6 +1,8 @@
 # knotes
 Messages for in-between commits
 
+[![NPM](https://nodei.co/npm/knotes.png?mini=true)](https://nodei.co/npm/knotes/)
+
 <h3>To-Do</h3>
 * ~~Add~~
 * ~~Log~~
